@@ -16,4 +16,26 @@ Before running the app, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-password-generator.git
+git clone https://github.com/FrontEndProfile/react-password-generator.git
+
+
+## Usage
+
+1. Open the app in your browser.
+2. Customize password options as needed.
+3. Click the "Generate Password" button.
+4. Copy the generated password to use as needed.
+
+## Social Links
+
+Connect with me on:
+
+- [LinkedIn](http://frontendprofile.com/) <!-- Replace with your LinkedIn profile link -->
+- [GitHub](https://github.com/FrontEndProfile/) <!-- Replace with your GitHub profile link -->
+- [Facebook](#) <!-- Replace with your Facebook profile link -->
+
+## Portfolio
+
+Check out my main portfolio for more projects and information: [Portfolio](https://frontendprofile.com/) <!-- Replace with your portfolio link -->
+
+Feel free to reach out if you have any questions or suggestions!
