@@ -17,7 +17,7 @@ Before running the app, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/FrontEndProfile/react-password-generator.git
-
+```
 
 ## Usage
 
@@ -30,9 +30,9 @@ git clone https://github.com/FrontEndProfile/react-password-generator.git
 
 Connect with me on:
 
-- [LinkedIn](http://frontendprofile.com/) <!-- Replace with your LinkedIn profile link -->
-- [GitHub](https://github.com/FrontEndProfile/) <!-- Replace with your GitHub profile link -->
-- [Facebook](#) <!-- Replace with your Facebook profile link -->
+- [LinkedIn](https://frontendprofile.com/)
+- [GitHub](https://github.com/FrontEndProfile/) 
+- [Facebook](#)
 
 ## Portfolio
 
